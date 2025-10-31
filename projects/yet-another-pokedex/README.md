@@ -22,3 +22,5 @@ Step 8.
 python3 manage.py runserver
 
 ![alt text](<Screenshot 2025-10-24 at 3.19.24 PM.png>)
+
+![alt text](<Screenshot 2025-10-22 at 12.03.34 PM.png>)
